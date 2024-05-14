@@ -1,0 +1,16 @@
+Abstraction:
+
+Abstraction is the process of hiding the implementation details and showing only the essential features of an object.
+It focuses on "what" an object does rather than "how" it does it.
+In object-oriented programming, abstraction is typically achieved through abstract classes and methods.
+Abstract classes cannot be instantiated and may contain one or more abstract methods (methods without implementation).
+Subclasses of abstract classes must provide implementations for all abstract methods.
+
+
+Interface:
+
+An interface defines a contract for classes that implement it.
+It specifies a set of methods that implementing classes must provide.
+Interfaces provide a way for unrelated classes to communicate with each other based on a shared contract.
+Methods declared in interfaces are by default abstract (no implementation).
+Classes implementing an interface must provide concrete implementations for all the methods declared in that interface.
