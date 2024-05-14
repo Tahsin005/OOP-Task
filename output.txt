@@ -1,1 +1,3 @@
-Drawing Circle
+22
+22
+After change the value at the friend class : 99
