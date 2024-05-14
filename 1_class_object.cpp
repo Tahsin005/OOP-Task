@@ -8,17 +8,17 @@ class A{
     //constructor
     A(int value){
         this->value = value;
-        cout<<"Constructor Called"<<endl;
+        cout << "Constructor Called" << endl;
     }
 
     //method
     void display(){
-        cout<<"Hello\n";
+        cout << "Hello" << endl;
     }
 
     //destructor
     ~A(){
-        cout<<"Desonstructor Called"<<endl;
+        cout << "Desonstructor Called" << endl;
     }
 };
                     

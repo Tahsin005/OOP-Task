@@ -5,29 +5,26 @@ using namespace std;
 class A{
     public:
     int value;
-    //constructor
     A(int value){
         this->value = value;
-        cout<<"Constructor Called"<<endl;
+        cout << "Constructor Called" << endl;
     }
 
-    //inside the class definition
     void display(){
-        cout<<"Hello\n";
+        cout << "Hello" << endl;
     }
 
     int temp(int v);
 };
 
 
-//outside method definition
 int A::temp(int v){
     return v;
 }
                     
 int main(){
     A obj(8);
-    cout<<endl<<obj.temp(35);
+    cout << obj.temp(35) << endl;
             
               
     return 0;

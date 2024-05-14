@@ -14,7 +14,3 @@ class A:
 
 obj = A(5)
 obj.display()
-# obj.value = 5
-# print(obj.value)
-
-# print(obj)
