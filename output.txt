@@ -1,3 +1,2 @@
 22
-22
-After change the value at the friend class : 99
+From friend function : 22
