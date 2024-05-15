@@ -11,3 +11,13 @@
 3) virtual keyword
 4) OOP: https://www.interviewbit.com/oops-interview-questions/
 5) Python: https://www.interviewbit.com/python-interview-questions/
+
+
+
+
+
+
+
+
+
+OOP and Python Task: https://docs.google.com/document/d/18V5Pl2HzfUjNk7lz3uGx6mFCTEeCcL7sQiLSPdgE_2I/edit?usp=sharing
